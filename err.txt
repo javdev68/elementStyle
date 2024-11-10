@@ -1,1 +1,2 @@
 error log:
+line 2: not found variable.
