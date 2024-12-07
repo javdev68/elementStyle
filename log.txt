@@ -7,3 +7,6 @@ log file:
 # change ver.2.1
 - add images
 - remove cart
+
+# change ver.2.2
+- add footer
