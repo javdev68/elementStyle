@@ -3,3 +3,7 @@ log file:
 - add feat
 - fix bug slider
 - change ver
+
+# change ver.2.1
+- add images
+- remove cart
