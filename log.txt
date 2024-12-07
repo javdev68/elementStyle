@@ -10,3 +10,4 @@ log file:
 
 # change ver.2.2
 - add footer
+- change header
