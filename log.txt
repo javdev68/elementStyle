@@ -1,2 +1,16 @@
 change log:
 - add feature for header
+log file:
+
+- add feat
+- fix bug slider
+- change ver
+
+# change ver.2.1
+- add images
+- remove cart
+
+# change ver.2.2
+- add footer
+- change header
+
