@@ -2,3 +2,4 @@ add error log:
 
 - not found function
 - add conflict to project.
+- add error repo
