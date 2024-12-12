@@ -1,5 +1,6 @@
 change log:
 - add feature for header
+- remove
 - add sidebar index.html.
 log file:
 
