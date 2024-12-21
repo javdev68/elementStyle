@@ -1,1 +1,2 @@
 add bug
+- fix header background bug.
