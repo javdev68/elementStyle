@@ -3,3 +3,4 @@ change log:
 - fix bug.
 - add header
 - add body and text
+add footer in index
