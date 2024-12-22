@@ -1,3 +1,4 @@
 add bug
 - fix header background bug.
 - fix bug.
+- fix slider circle.
