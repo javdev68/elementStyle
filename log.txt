@@ -3,3 +3,6 @@ change log:
 - fix bug.
 - add header
 - add body and text
+
+# change log v2:
+- add footer section
