@@ -1,2 +1,4 @@
 add bug
 - fix header background bug.
+- fix main background bug.
+- fix cards.
