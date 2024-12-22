@@ -1,2 +1,7 @@
 add bug
 - fix header background bug.
+- fix bug.
+- fix slider circle.
+- fix main background bug.
+- fix cards.
+
