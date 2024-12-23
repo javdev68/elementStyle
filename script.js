@@ -1,1 +1,3 @@
-condole.log("Hi World!!!!");
+console.log("Hi World!!!!");
+
+alert("Hellllllo");
