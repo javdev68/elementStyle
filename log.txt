@@ -4,3 +4,4 @@ change log:
 - add header
 - add body and text
 add footer in index
+- add page title
