@@ -6,3 +6,4 @@ add bug
 - fix slider circle.
 - fix main background bug.
 - fix cards.
+- add error
