@@ -1,6 +1,0 @@
-change log:
-- add meta tags.
-- fix bug.
-- add header
-- add body and text
-
