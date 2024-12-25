@@ -8,7 +8,3 @@ change log:
 # change log v2:
 - add footer
 add footer in index
-- add header page feature
-
-- remove card v.2
-- add branch
