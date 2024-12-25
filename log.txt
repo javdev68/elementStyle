@@ -7,4 +7,3 @@ change log:
 
 # change log v2:
 - add footer
-add footer in index
